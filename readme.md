@@ -87,7 +87,7 @@ git clone https://github.com/JACursino/numerosecreto.git
 
 2. **Navegue até a pasta do projeto**
 ```bash
-cd jogo-numero-secreto
+cd jogosecreto
 ```
 
 3. **Abra o arquivo no navegador**
@@ -129,13 +129,10 @@ jogo-numero-secreto/
 Ideias para expandir o projeto:
 
 - [ ] Adicionar níveis de dificuldade (Fácil: 1-10, Médio: 1-50, Difícil: 1-100)
-- [ ] Implementar limite de tentativas
 - [ ] Sistema de pontuação baseado no número de tentativas
 - [ ] Ranking de melhores jogadores (localStorage)
-- [ ] Modo multiplayer local
 - [ ] Tema claro/escuro
 - [ ] Animações e efeitos sonoros
-- [ ] Conquistas e badges
 - [ ] Estatísticas do jogador
 
 ---
@@ -166,7 +163,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 
 ## 📧 Contato
 
-**JOsé Antônio **
+**José Antônio **
 Link do Projeto: [https://github.com/JACursino/numerosecreto.git](https://github.com/JACursino/numerosecreto.git)
 
 ---
